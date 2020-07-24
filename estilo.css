@@ -1,0 +1,13 @@
+
+img{width:70%;}
+
+body {background-color: rgb(255, 163, 163); text-align:center;
+     list-style: -webkit-linear-gradient; 
+     font-size: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      border:solid 15px rgb(179, 169, 226); }
+  
+    h1 {background-color: rbg(179, 169, 226);}
+
+#t1 {background-color: rgb(179, 169, 226); border: darkolivegreen;}
+ 
+.mi{color: black;}
